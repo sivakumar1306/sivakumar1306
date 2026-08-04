@@ -14,10 +14,10 @@
 # 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering @ **VIT Chennai**
-- 💼 **TCS Agent Developer Intern**
+- 💼 **INTERN @TATA Consultancy Services as AI Agent Developer**
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🤖 Passionate about **Artificial Intelligence, LLMs, Flutter and Full-Stack Development**
-- 🌱 Currently learning **CrewAI, LangChain, RAG and FastAPI**
+- 🌱 Mastering **CrewAI, LangChain, RAG and FastAPI**
 - 📫 **Email:** **sk7949644@gmail.com**
 
 ---

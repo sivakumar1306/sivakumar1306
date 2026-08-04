@@ -1,31 +1,55 @@
 <h1 align="center">Hi 👋, I'm Sivakumar</h1>
-<h3 align="center">Computer Science Student @ VIT Chennai | AI & Full-Stack Developer</h3>
+
+<h3 align="center">
+Computer Science Student @ VIT Chennai | AI & Full-Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=800&lines=AI+Engineer;Full-Stack+Developer;Flutter+Developer;Building+Production-Ready+Applications;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full-Stack+Developer;Flutter+Developer;Building+Production-Ready+Applications;Always+Learning+Something+New"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sivakumar1306&label=Profile%20Views&color=7F3FBF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=sivakumar1306&label=Profile+Views&color=7F3FBF&style=for-the-badge"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering @ **VIT Chennai**
-- 💼 **TCS Agent Developer Intern**
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🤖 Passionate about **Artificial Intelligence, LLMs, Flutter and Full-Stack Development**
-- 🌱 Currently learning **CrewAI, LangChain, RAG and FastAPI**
+```python
+class Sivakumar:
+
+    education = "B.Tech Computer Science @ VIT Chennai"
+
+    role = "TCS Agent Developer Intern"
+
+    interests = [
+        "Artificial Intelligence",
+        "LLMs",
+        "Flutter",
+        "Full-Stack Development",
+        "Backend Engineering"
+    ]
+
+    currently_learning = [
+        "CrewAI",
+        "LangChain",
+        "RAG",
+        "FastAPI"
+    ]
+
+    certification = "AWS Certified Cloud Practitioner"
+
+    email = "sk7949644@gmail.com"
+```
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/g-sivakumar-86436828b/" target="_blank">
+<a href="https://www.linkedin.com/in/g-sivakumar-86436828b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -40,20 +64,14 @@
 # 🚀 Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,flutter,fastapi,react,nodejs,java,cpp,c,mysql,sqlite,supabase,docker,git,github,linux,vscode,aws,firebase&perline=9"/>
+
 </p>
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sivakumar1306&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar1306&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -77,7 +95,7 @@
 
 ---
 
-# 📈 GitHub Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -89,13 +107,13 @@
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🩺 **MedXAI** | AI-powered healthcare assistant using LLMs and RAG |
-| 💍 **Vital Monitoring Ring** | Flutter application for wearable health monitoring |
-| ✈️ **AI Airline Offer Recommendation** | CrewAI + LangChain + FastAPI + RAG |
-| 📱 **Smart Task Prioritization App** | AI-powered productivity application |
-| 🏥 **Flutter Healthcare Management App** | Cross-platform healthcare management system |
+| Project | Tech Stack |
+|----------|------------|
+| 💍 **Vital Monitoring Ring** | Flutter • BLE • Supabase |
+| 🩺 **MedXAI** | Python • FastAPI • RAG • LLMs |
+| ✈️ **AI Airline Offer Generator** | CrewAI • LangChain • FastAPI |
+| 📱 **Smart Task Prioritization** | Flutter • AI • Supabase |
+| 🏥 **Healthcare Management App** | Flutter • Firebase |
 
 ---
 
@@ -115,11 +133,17 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/sivakumar1306/sivakumar1306/output/snake-purple.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/sivakumar1306/sivakumar1306/output/snake-purple.svg"/>
 
 </p>
 
 ---
+
+<p align="center">
+
+> *"Code. Learn. Build. Repeat."* 🚀
+
+</p>
 
 <h3 align="center">
 

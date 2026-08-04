@@ -93,18 +93,6 @@
 
 ---
 
-# 📚 Currently Learning
-
-- 🤖 Agentic AI
-- 🧠 Large Language Models (LLMs)
-- 👥 CrewAI
-- 🔗 LangChain
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚡ FastAPI
-- ☁️ AWS Cloud
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">

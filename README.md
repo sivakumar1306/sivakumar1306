@@ -2,72 +2,143 @@
 <h3 align="center">Computer Science Student @ VIT Chennai | AI & Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI+Developer;Flutter+Developer;Full-Stack+Developer;Always+Building+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=750&lines=AI+Engineer;Full-Stack+Developer;Flutter+Developer;Building+Production-Ready+Applications;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sivakumar1306&label=Profile%20Views&color=7F3FBF&style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 Computer Science Engineering @ **VIT Chennai**
 - 💼 **TCS Agent Developer Intern**
-- ☁️ AWS Certified Cloud Practitioner
-- 🤖 Interested in AI, LLMs, Flutter and Full-Stack Development
-- 🌱 Currently learning CrewAI, LangChain and RAG
-- 📫 Reach me: **YOUR_EMAIL**
+- ☁️ **AWS Certified Cloud Practitioner**
+- 🤖 Passionate about **AI, LLMs, Agentic AI, Flutter & Full-Stack Development**
+- 🌱 Currently exploring **CrewAI, LangChain, RAG & FastAPI**
+- 📫 Reach me at **sk7949644@gmail.com**
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect with Me
 
-<p>
-<a href="https://www.linkedin.com/in/g-sivakumar-86436828b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:sk7949644@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/g-sivakumar-86436828b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:sk7949644@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://leetcode.com/u/gsivakumar13/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
 </p>
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flutter,react,fastapi,nodejs,java,cpp,c,mysql,sqlite,supabase,docker,git,github,vscode,linux,aws,firebase"/>
+<img src="https://skillicons.dev/icons?i=python,flutter,fastapi,react,nodejs,java,cpp,c,mysql,sqlite,supabase,docker,git,github,linux,vscode,aws,firebase&perline=9"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=sivakumar1306&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://streak-stats.demolab.com?user=sivakumar1306&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sivakumar1306&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar1306&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar1306&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+</p>
 
-## 🏆 Featured Projects
+<p align="center">
 
-- 🩺 MedXAI – AI-powered Healthcare Assistant
-- 💍 Vital Monitoring Ring
-- ✈️ AI Airline Offer Recommendation System
-- 📱 Smart Task Prioritization App
-- 🏥 Flutter Healthcare Management App
+<img src="https://streak-stats.demolab.com?user=sivakumar1306&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📈 Contribution Graph
+# 💻 LeetCode
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=sivakumar1306&theme=tokyo-night)
+<p align="center">
+
+<a href="https://leetcode.com/u/gsivakumar13/">
+
+<img src="https://leetcard.jacoblin.cool/gsivakumar13?theme=dark&font=Poppins&ext=contest"/>
+
+</a>
+
+</p>
 
 ---
 
-## 🐍 Contributions
+# 🏆 GitHub Achievements
 
-![Snake](https://raw.githubusercontent.com/sivakumar1306/sivakumar1306/output/snake-purple.svg)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sivakumar1306&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivakumar1306&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🩺 **MedXAI** | AI-powered Healthcare Assistant using LLMs and RAG |
+| 💍 **Vital Monitoring Ring** | Smart wearable health monitoring application |
+| ✈️ **AI Airline Offer Recommendation** | CrewAI + LangChain + FastAPI + RAG |
+| 📱 **Smart Task Prioritization** | AI-powered productivity platform |
+| 🏥 **Flutter Healthcare App** | Mobile healthcare management application |
+
+---
+
+# 📚 Currently Learning
+
+- 🤖 Agentic AI
+- 🧠 LangChain
+- 👥 CrewAI
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI
+- ☁️ Cloud & DevOps
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sivakumar1306/sivakumar1306/output/snake-purple.svg" alt="Snake animation"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</h3>

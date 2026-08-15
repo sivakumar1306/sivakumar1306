@@ -24,7 +24,7 @@ AI Agent Developer • Full-Stack Developer • Flutter Developer • Computer S
 * 📱 Experienced in building **Flutter & cross-platform applications**
 * 🔧 Building **production-ready AI-powered applications and backend systems**
 * 🌱 Currently exploring **Agentic Workflows, RAG Systems, FastAPI, LLMs and AI Engineering**
-* 📫 **Email:** [sk7949644@gmail.com](mailto:sk7949644@gmail.com)
+* 📫 **Email:** **[sk7949644@gmail.com](mailto:sk7949644@gmail.com)**
 
 ---
 
@@ -82,20 +82,20 @@ AI Agent Developer • Full-Stack Developer • Flutter Developer • Computer S
 
 ## 🩺 MedXAI
 
-**AI-Powered Healthcare Assistant**
+### AI-Powered Healthcare Assistant
 
 * 🤖 LLM-powered healthcare assistant
 * 📚 Retrieval-Augmented Generation (RAG)
 * 🔎 Context-aware knowledge retrieval
 * ⚡ FastAPI backend
 * 🧠 Vector-based semantic search
-* 🔐 Designed for structured healthcare information retrieval
+* 🔐 Structured healthcare information retrieval
 
 ---
 
 ## ✈️ AI Airline Offer Recommendation System
 
-**CrewAI + LangChain + RAG + FastAPI**
+### CrewAI + LangChain + RAG + FastAPI
 
 * 🤖 Multi-agent architecture for personalized airline offers
 * 👤 Customer profiling and behavioral analysis
@@ -108,7 +108,7 @@ AI Agent Developer • Full-Stack Developer • Flutter Developer • Computer S
 
 ## 💍 Vital Monitoring Ring
 
-**Flutter + BLE + Wearable SDK**
+### Flutter + BLE + Wearable SDK
 
 * 📱 Cross-platform Flutter application
 * 🔵 Bluetooth Low Energy integration
@@ -121,7 +121,7 @@ AI Agent Developer • Full-Stack Developer • Flutter Developer • Computer S
 
 ## 📱 Smart Task Prioritization App
 
-**React + React Native + Supabase + Machine Learning**
+### React + React Native + Supabase + Machine Learning
 
 * 🧠 AI-assisted task prioritization
 * 📊 Productivity analytics dashboard
@@ -134,7 +134,7 @@ AI Agent Developer • Full-Stack Developer • Flutter Developer • Computer S
 
 ## 🏥 Healthcare Management Application
 
-**Flutter + Supabase + Google Maps**
+### Flutter + Supabase + Google Maps
 
 * 👩‍⚕️ Healthcare workforce management
 * 📍 GPS-based geofencing
@@ -150,29 +150,17 @@ AI Agent Developer • Full-Stack Developer • Flutter Developer • Computer S
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sivakumar1306&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/sivakumar1306">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivakumar1306&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sivakumar1306&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 
-</p>
+</a>
 
----
+<a href="https://github.com/sivakumar1306">
 
-# 🔥 GitHub Streak
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sivakumar1306&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sivakumar1306&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sivakumar1306&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+</a>
 
 </p>
 
@@ -240,6 +228,6 @@ AI Agent Developer • Full-Stack Developer • Flutter Developer • Computer S
 ⚡ Building with AI • Shipping Real Applications • Learning Every Day
 </h3>
 
-<h4 align="center">
-⭐ Feel free to explore my repositories and connect with me!
-</h4>
+<p align="center">
+⭐ Explore my repositories and feel free to connect!
+</p>

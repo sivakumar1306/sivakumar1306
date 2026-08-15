@@ -14,6 +14,16 @@ AI Agent Developer • Full-Stack Developer • Flutter Developer • Computer S
 
 ---
 
+# 🐍 Contribution Activity
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sivakumar1306/sivakumar1306/output/snake-purple.svg" alt="Contribution Snake"/>
+
+</p>
+
+---
+
 # 👨‍💻 About Me
 
 * 🎓 Computer Science Engineering student @ **VIT Chennai**
@@ -78,71 +88,71 @@ AI Agent Developer • Full-Stack Developer • Flutter Developer • Computer S
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🩺 MedXAI
+## MedXAI
 
 ### AI-Powered Healthcare Assistant
 
-* 🤖 LLM-powered healthcare assistant
-* 📚 Retrieval-Augmented Generation (RAG)
-* 🔎 Context-aware knowledge retrieval
-* ⚡ FastAPI backend
-* 🧠 Vector-based semantic search
-* 🔐 Structured healthcare information retrieval
+* LLM-powered healthcare assistant
+* Retrieval-Augmented Generation (RAG)
+* Context-aware knowledge retrieval
+* FastAPI backend
+* Vector-based semantic search
+* Structured healthcare information retrieval
 
 ---
 
-## ✈️ AI Airline Offer Recommendation System
+## AI Airline Offer Recommendation System
 
 ### CrewAI + LangChain + RAG + FastAPI
 
-* 🤖 Multi-agent architecture for personalized airline offers
-* 👤 Customer profiling and behavioral analysis
-* 💰 Dynamic discount and upgrade recommendations
-* 📚 Airline policy knowledge base using RAG
-* 🧠 LLM-powered recommendation generation
-* ⚙️ FastAPI backend for serving recommendations
+* Multi-agent architecture for personalized airline offers
+* Customer profiling and behavioral analysis
+* Dynamic discount and upgrade recommendations
+* Airline policy knowledge base using RAG
+* LLM-powered recommendation generation
+* FastAPI backend for serving recommendations
 
 ---
 
-## 💍 Vital Monitoring Ring
+## Vital Monitoring Ring
 
 ### Flutter + BLE + Wearable SDK
 
-* 📱 Cross-platform Flutter application
-* 🔵 Bluetooth Low Energy integration
-* 💓 Wearable health-data integration
-* 🌡️ Temperature monitoring
-* ⚙️ Native Android SDK integration
-* 🔄 Real-time communication between wearable and mobile application
+* Cross-platform Flutter application
+* Bluetooth Low Energy integration
+* Wearable health-data integration
+* Temperature monitoring
+* Native Android SDK integration
+* Real-time communication between wearable and mobile application
 
 ---
 
-## 📱 Smart Task Prioritization App
+## Smart Task Prioritization App
 
 ### React + React Native + Supabase + Machine Learning
 
-* 🧠 AI-assisted task prioritization
-* 📊 Productivity analytics dashboard
-* 🤖 ML-based priority prediction
-* 🔗 QR-based task/list sharing
-* 🗄️ Supabase PostgreSQL backend
-* 📈 AI-generated productivity insights
+* AI-assisted task prioritization
+* Productivity analytics dashboard
+* ML-based priority prediction
+* QR-based task/list sharing
+* Supabase PostgreSQL backend
+* AI-generated productivity insights
 
 ---
 
-## 🏥 Healthcare Management Application
+## Healthcare Management Application
 
 ### Flutter + Supabase + Google Maps
 
-* 👩‍⚕️ Healthcare workforce management
-* 📍 GPS-based geofencing
-* ⏱️ Automated clock-in / clock-out
-* 📅 Shift and time tracking
-* 🗺️ Client location management
-* 🗄️ Supabase backend
-* 📧 Automated notifications and reporting
+* Healthcare workforce management
+* GPS-based geofencing
+* Automated clock-in / clock-out
+* Shift and time tracking
+* Client location management
+* Supabase backend
+* Automated notifications and reporting
 
 ---
 
@@ -152,13 +162,13 @@ AI Agent Developer • Full-Stack Developer • Flutter Developer • Computer S
 
 <a href="https://github.com/sivakumar1306">
 
-<img src="https://github-stats-extended.vercel.app/api?username=sivakumar1306&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api?username=sivakumar1306&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics"/>
 
 </a>
 
 <a href="https://github.com/sivakumar1306">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sivakumar1306&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sivakumar1306&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 
 </a>
 
@@ -166,35 +176,11 @@ AI Agent Developer • Full-Stack Developer • Flutter Developer • Computer S
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivakumar1306&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# 💻 LeetCode
-
-<p align="center">
-
-<a href="https://leetcode.com/u/gsivakumar13/">
-
-<img src="https://leetcard.jacoblin.cool/gsivakumar13?theme=dark&font=Poppins&ext=contest"/>
-
-</a>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sivakumar1306/sivakumar1306/output/snake-purple.svg" alt="Snake animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivakumar1306&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </p>
 
@@ -214,10 +200,6 @@ AI Agent Developer • Full-Stack Developer • Flutter Developer • Computer S
 
 <a href="https://github.com/sivakumar1306">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/gsivakumar13/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>

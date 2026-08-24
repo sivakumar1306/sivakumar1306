@@ -33,7 +33,7 @@ AI Agent Developer • Full-Stack Developer • Flutter Developer • Computer S
 * 🚀 Passionate about **Artificial Intelligence, Agentic AI and Full-Stack Development**
 * 📱 Experienced in building **Flutter & cross-platform applications**
 * 🔧 Building **production-ready AI-powered applications and backend systems**
-* 🌱 Currently exploring **Agentic Workflows, RAG Systems, FastAPI, LLMs and AI Engineering**
+* 🌱 Working on **Agentic Workflows, RAG Systems, FastAPI, LLMs and AI Engineering**
 * 📫 **Email:** **[sk7949644@gmail.com](mailto:sk7949644@gmail.com)**
 
 ---
@@ -90,7 +90,7 @@ AI Agent Developer • Full-Stack Developer • Flutter Developer • Computer S
 
 # Featured Projects
 
-## MedXAI
+## AI Agent + RAG Biometric personalized Assistant
 
 ### AI-Powered Healthcare Assistant
 

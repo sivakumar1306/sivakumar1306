@@ -8,9 +8,7 @@ AI Agent Developer • Full-Stack Developer • Flutter Developer • Computer S
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=900&lines=AI+Agent+Developer+%40+TCS;AI+%26+LLM+Engineer;Full-Stack+Developer;Flutter+Developer;Building+Production-Ready+Applications;Exploring+Agentic+AI;Always+Learning+Something+New" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sivakumar1306&label=Profile%20Views&color=7F3FBF&style=for-the-badge"/>
-</p>
+
 
 ---
 

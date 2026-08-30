@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sivakumar</h1>
 
 <h3 align="center">
-AI Agent Developer • Full-Stack Developer • Flutter Developer • Computer Science Student
+Agent Developer • Full-Stack Developer • Flutter Developer • Computer Science Student
 </h3>
 
 <p align="center">

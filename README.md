@@ -174,16 +174,6 @@ Agent Developer • Full-Stack Developer • Flutter Developer • Computer Scie
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sivakumar1306&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -202,12 +192,3 @@ Agent Developer • Full-Stack Developer • Flutter Developer • Computer Scie
 
 </p>
 
----
-
-<h3 align="center">
-⚡ Building with AI • Shipping Real Applications • Learning Every Day
-</h3>
-
-<p align="center">
-⭐ Explore my repositories and feel free to connect!
-</p>

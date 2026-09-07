@@ -5,7 +5,7 @@ Agent Developer • Full-Stack Developer • Flutter Developer • Computer Scie
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=900&lines=AI+Agent+Developer+%40+TCS;AI+%26+LLM+Engineer;Full-Stack+Developer;Flutter+Developer;Building+Production-Ready+Applications;Exploring+Agentic+AI;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=7F3FBF&center=true&vCenter=true&width=900&lines=AI+Agent+Developer;AI+%26+LLM+Engineer;Full-Stack+Developer;Flutter+Developer;Building+Production-Ready+Applications" />
 </p>
 
 
